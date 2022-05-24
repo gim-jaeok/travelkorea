@@ -27,7 +27,7 @@ author     : Jaeok Kim
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-E9ZF1EHJW3
 
 collections:
   portfolio:
